@@ -1,5 +1,10 @@
-# CapstProjec
-# My Capstone project of Twitter Scrapping of Elon Musk Data And Upload all this on the app created by streamlit
+# Capston Project
+# Twitter Scrapping of Elon Musk create DataFrame, app created by streamlit And Upload all the data on MongoDB database
+Explanation of project in this Youtube video
+![image](https://user-images.githubusercontent.com/123791884/230655556-d3ba15cd-d5d1-4cf4-9387-f84a2d8a5b10.png)
+
+# Youtube - https://youtu.be/lbxiVE374zM
+Install all required python libraries
 
 pip install pandas
 
@@ -32,6 +37,8 @@ Streamlit run (the following folder name of file present) and press enter
 
 # App will be run over the browser
 The app dash board will be seen
+here any twitter user Id can be used to scrap and the limit of data scrapping also may increased and data can be selected as per desired.
+so 
 ![1](https://user-images.githubusercontent.com/123791884/230466231-306b73fa-bfb5-40c8-a6b2-974e58e4b674.png)
 
 #  You can check your data frame and 
